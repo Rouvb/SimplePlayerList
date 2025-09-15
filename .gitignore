@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/out/
+/build/
+
+# SpigotMC Plugin Specific
+/target/
+/classes/
+
+# Local files
+*.log
+.DS_Store
+*.jar
+
+# Gradle (if you are using Gradle)
+.gradle/
+/build/
+/out/
+
+# Maven (if you are using Maven)
+/target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
