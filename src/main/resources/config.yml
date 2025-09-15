@@ -1,0 +1,8 @@
+ranks:
+  - "&4&oOwner"
+  - "&c&oAdmin"
+  - "&eDonator"
+  - "&aDefault"
+list:
+  - "{ranks}"
+  - "&f({online}/{max_online}): {players}"

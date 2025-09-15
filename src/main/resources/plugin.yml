@@ -1,0 +1,11 @@
+name: SimplePlayerList
+version: '1.0-SNAPSHOT'
+main: net.arkamc.simplePlayerList.SimplePlayerList
+authors: [ Arka Network ]
+description: /list plugin
+depend:
+  - Vault
+commands:
+  list:
+    description: Shows a list of online players
+    usage: /<command>
